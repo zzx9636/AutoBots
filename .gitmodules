@@ -1,0 +1,3 @@
+[submodule "third_parties/nuscenes-devkit"]
+	path = third_parties/nuscenes-devkit
+	url = https://github.com/nutonomy/nuscenes-devkit.git
